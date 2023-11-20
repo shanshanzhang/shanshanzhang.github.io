@@ -9,7 +9,7 @@ author_profile: true
 
 • **Shanshan Zhang**, Di Chen, Jian Yang*, Bernt Schiele. Guided Attention in CNNs for Occluded Pedestrian Detection and Re-identification. International Journal of Computer Vision (IJCV), 129(6):1875-1892, 2021. (CCF-A类期刊)
 
-• Di Chen, **Shanshan Zhang***, Jian Yang*, Bernt Schiele. Norm-Aware Embedding for Efficient Person Search and Tracking. International Journal of Computer Vision (IJCV), 129(9), 3154–3168, 2021. (CCF-A类期刊)
+• Di Chen, **Shanshan Zhang**\*, Jian Yang*, Bernt Schiele. Norm-Aware Embedding for Efficient Person Search and Tracking. International Journal of Computer Vision (IJCV), 129(9), 3154–3168, 2021. (CCF-A类期刊)
 
 • Yunan Liu, **Shanshan Zhang***, Jie Xu, Jian Yang and Yu-Wing Tai. An Accurate and Lightweight Method for Human Body Image Super-Resolution. IEEE Transactions on Image Processing (T-IP), 30(2): 2888 - 2897, 2021. (CCF-A类期刊)
 

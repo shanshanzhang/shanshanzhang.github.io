@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-
-
 • **Shanshan Zhang**, Rodrigo Benenson, Mohamed Omran, Jan Hosang, Bernt Schiele. Towards Reaching Human Performance in Pedestrian Detection. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 40(4): 973-986,2018. (CCF-A类期刊)
 
 • **Shanshan Zhang**, Di Chen, Jian Yang*, Bernt Schiele. Guided Attention in CNNs for Occluded Pedestrian Detection and Re-identification. International Journal of Computer Vision (IJCV), 129(6):1875-1892, 2021. (CCF-A类期刊)
